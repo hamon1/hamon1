@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 <a href="https://opgc.me/#/users/ryukyung" target="_blank"><img src="https://api.opgc.me/githubs/users/hamon1/tag/?theme=basic" /></a>
   <br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=ryukyung&show_icons=true&theme=prussian" width=49.0% />
+  <img src="https://github-readme-stats.vercel.app/api?username=hamon1&show_icons=true&theme=prussian" width=49.0% />
 </a>
 <a href="https://github.com/devpla/github-stats-transparent">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamon1g&layout=compact&theme=prussian" width=41.5% />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamon1&layout=compact&theme=prussian" width=41.5% />
 </a>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
 <img src="https://activity-graph.herokuapp.com/graph?username=hamon1&theme=react-dark" width=90%/>
