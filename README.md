@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 -->
 <div align=center>
 
-<a href="https://opgc.me/#/users/hamon1" target="_blank"><img src="https://api.opgc.me/githubs/users/hamon1/tag/?theme=basic" /></a>
-  <br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=hamon1&show_icons=true&theme=prussian" width=49.0% />
 </a>
