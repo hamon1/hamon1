@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/devpla/github-stats-transparent">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamon1&layout=compact&theme=prussian" width=41.5% />
 </a>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+<a href="[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?hamon1=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)">
 <img src="https://activity-graph.herokuapp.com/graph?username=hamon1&theme=react-dark" width=90%/>
 </a>
   
