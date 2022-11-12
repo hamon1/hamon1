@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lemon02)](https://solved.ac/lemon02/)
+
 <div align=center>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -28,4 +30,4 @@ Here are some ideas to get you started:
 
   
 </div>
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lemon02)](https://solved.ac/lemon02)
+
