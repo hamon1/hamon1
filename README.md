@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+poetry install             
+poetry shell               
+python manage.py runserver
 <div align=center>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
