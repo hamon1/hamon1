@@ -26,9 +26,6 @@ Here are some ideas to get you started:
 <img src="https://activity-graph.herokuapp.com/graph?username=hamon1&theme=react-dark" width=90%/>
 </a>
 
-<a href="https://solved.ac/lemon02">
-[![Solved.ac Profile]
-<img src="http://mazassumnida.wtf/api/generate_badge?boj=lemon02)" width=50% />
-</a>
   
 </div>
+![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tjddlf101)](https://solved.ac/tjddlf101)
