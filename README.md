@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 
   
 </div>
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tjddlf101)](https://solved.ac/tjddlf101)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lemon02)](https://solved.ac/lemon02)
