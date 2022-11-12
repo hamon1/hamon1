@@ -14,14 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-poetry install             
-poetry shell               
-python manage.py runserver
 <div align=center>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=hamon1&show_icons=true&theme=prussian" width=49.0% />
+  <img src="https://github-readme-stats.vercel.app/api?username=hamon1&show_icons=true&theme=highcontrast" width=49.0% />
 </a>
 <a href="https://github.com/devpla/github-stats-transparent">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamon1&layout=compact&theme=prussian" width=41.5% />
@@ -29,7 +25,5 @@ python manage.py runserver
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
 <img src="https://activity-graph.herokuapp.com/graph?username=hamon1&theme=react-dark" width=90%/>
 </a>
-<a>  
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lemon02)](https://solved.ac/lemon02" width=49.0% />
-</a>
+
 </div>
