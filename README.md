@@ -29,4 +29,7 @@ Here are some ideas to get you started:
   <img src="http://mazassumnida.wtf/api/generate_badge?boj=lemon02)](https://solved.ac/lemon02" width=49.0% />
 </a>
 </div>
-![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=lemon02)](https://solved.ac/lemon02)
+<a href="https://solved.ac/lemon02">
+[![Solved.ac Profile]
+<img src="http://mazassumnida.wtf/api/generate_badge?boj=lemon02)"
+     </a>
