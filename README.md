@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 -->
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lemon02)](https://solved.ac/lemon02/)
 
+![](https://raw.githubusercontent.com/hamon1/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+
 
 -------
 
