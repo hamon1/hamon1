@@ -56,6 +56,8 @@ Here are some ideas to get you started:
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
 <img src="https://activity-graph.herokuapp.com/graph?username=hamon1&theme=merko" width=90%/>
 </a>
+</div>
+<div>
 <img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=Java&logoColor=black">
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=black">
 <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
