@@ -1,5 +1,6 @@
-HAMON1's github
+HI! This is HAMON1's github
 ======
+
 <!--
 **hamon1/hamon1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
