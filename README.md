@@ -1,4 +1,4 @@
-HI! This is HAMON1's github
+HAMON1's github
 ======
 
 <!--
