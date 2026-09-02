@@ -53,7 +53,7 @@
 |---|---|---|---|
 | [🪶 FeatherTales](https://github.com/hamon1/FeatherTales) | 2024.12–2025.02 · 1인 풀스택 | React · Node.js · Express · MongoDB · JWT | 아바타 기반 개인 공간 SNS. 배포 후 환경변수 오류·필터링 버그를 API 응답까지 역추적해 근본 원인을 해결 |
 | [🌍 TravelBUDDY](https://github.com/hamon1/TRAVEL) | 2024.05–2024.11 · 2인 팀장 | React Native · Firebase(Firestore) · Google Places API | 여행 계획·공유 iOS 앱. 채팅 데이터 혼선 버그를 플래그 누락까지 추적, Git 브랜치 충돌을 협업으로 해결 |
-| 🐱 Focus | 2026.04 · 1인 (기획·개발·배포) | Electron · JavaScript · electron-store | 뽀모도로 타이머 데스크톱 앱. Windows/macOS에 실제 배포, 몰입과 휴식을 분리하는 습관을 스스로 설계 |
+| [🐱 Focus](https://github.com/hamon1/Focus) | 2026.04 · 1인 (기획·개발·배포) | Electron · JavaScript · electron-store | 뽀모도로 타이머 데스크톱 앱. Windows/macOS에 실제 배포, 몰입과 휴식을 분리하는 습관을 스스로 설계 |
 | [🎋 bamboo-bomb-backend](https://github.com/bamboo-bomb/bamboo-bomb-backend) | 2인 개발 · Backend 담당 | Java · Spring Boot | 2인 팀 프로젝트에서 Spring Boot 기반 백엔드 서버 개발을 전담 |
 
 > 프로젝트별 상세 트러블슈팅 과정은 각 저장소 README와 [포트폴리오 웹사이트](https://hamon1.github.io/PortfolioWebSite/)에서 확인하실 수 있습니다.
