@@ -1,4 +1,4 @@
-<h1 align="center">안녕하세요, 이정현입니다 👋</h1>
+<h1 align="center">안녕하세요, 어제보다 더 발전한 이정현입니다 👋</h1>
 <p align="center">문제의 원인을 끝까지 추적해 기술적 근거로 해결하는 신입 Developer</p>
 
 <p align="center">
